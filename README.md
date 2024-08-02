@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MarvinCui
+- 👀 I’m interested in neuroscience, cognitive psychology, technology and artificial intelligence.
+- 🌱 I’m currently learning AP classes now.
+- 🏫 I'm a high school student at [The Affiliated High School of Peking University](https://www.pkudalton.com/).
+- 📫 How to reach me: [Email](mailto:boran.cui@outlook.com) or [Marvin's Website](https://marvincui.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a Gay. I interned at renowned startups such as [FlowGPT](https://flowgpt.com/) and [Moonshot AI](https://www.moonshot.cn/).
