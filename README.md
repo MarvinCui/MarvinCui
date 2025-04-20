@@ -4,4 +4,4 @@
 - 🏫 I'm a high school student at [The Affiliated High School of Peking University](https://www.pkudalton.com/).
 - 📫 How to reach me: [Email](mailto:boran.cui@outlook.com) or [Marvin's Website](https://borancui.site)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a Gay. I interned at renowned startups such as [FlowGPT](https://flowgpt.com/) and [Moonshot AI](https://www.moonshot.cn/).
+- ⚡ Fun fact: I interned at renowned startups such as [FlowGPT](https://flowgpt.com/) and [Moonshot AI](https://www.moonshot.cn/).
