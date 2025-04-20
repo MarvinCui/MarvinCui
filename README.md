@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MarvinCui
-- 👀 I’m interested in neuroscience, cognitive psychology, technology and artificial intelligence.
-- 🌱 I’m currently learning AP classes now.
+- 👀 I’m interested in neuroscience, cognitive psychology.
 - 🏫 I'm a high school student at [The Affiliated High School of Peking University](https://www.pkudalton.com/).
 - 📫 How to reach me: [Email](mailto:boran.cui@outlook.com) or [Marvin's Website](https://borancui.site)
 - 😄 Pronouns: he/him
